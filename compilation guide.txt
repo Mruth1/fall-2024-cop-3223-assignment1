@@ -1,0 +1,9 @@
+On the pretense that you are running linux back end please follow trhese compilation instructings as such
+
+From terminal 
+
+
+gcc -o fracturing fracturing.c && ./fracturing.out
+// I believe this is dependant on how you compile & execute the code, if so use .exe instead of .out if using a windows backed terminal 
+
+
