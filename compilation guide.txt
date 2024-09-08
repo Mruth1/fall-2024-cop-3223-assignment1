@@ -3,7 +3,7 @@ On the pretense that you are running linux back end please follow trhese compila
 From terminal 
 
 
-gcc -o fracturing fracturing.c -lm && ./fracturing.out
-// I believe this is dependant on how you compile & execute the code, if so use .exe instead of .out if using a windows backed terminal 
+gcc -o fracturing fracturing.c -lm && ./fracturing
+// I believe this is dependant on how you compile & execute the code on ur os
 
 
